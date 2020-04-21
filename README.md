@@ -45,6 +45,9 @@ There are also datasets on how the virus is distributed between different provin
 <img src="plots/province.png" style="float:centre">
 
 <h2>Insights and Questions</h2>
+Some thoughts on insights and specific questions regarding the South Korea's COVID-19 dataset are the following:  
+
+<p>
 (1) What are the sources of infection? 
 <br />
 (2) How different levels of community interactions are related in terms of virus spread? 
@@ -53,10 +56,17 @@ There are also datasets on how the virus is distributed between different provin
 <br />
 (4) How daily web searches on COVID-19, cold, or flu are related?
 <br />
+</p>
 
 For question 1, the relevant data has been analyzed and the top ten reasons are plotted as follows. As obserevd, the most effective way of virus transformation is by close contact with the patient, and that is why one of the most impotant recommendation to everyone is to hold social distance and also stay in home quarantine when are affected by the virus. The second important factor is traveling, and that is why all governments planned to check incomming travelers against COVID-19 signs and ask all those travelers to stay in quarantine for at least 14 days regardless.
 
 <img src="plots/reasons.png" style="align:centre">
+
+The second question is important since we can find out which one of the big communities were more effective to spread the virus, especially becasue we can explore the correlation between different comminities as well. For instance, a kindergarden and elemntary schools can spread virus to each other (be correlated in the case numbers) since a family have yound children in both kindergarden and elemntary schools and they can tranfer virus to each other and unfortunately there is little or no sign at the early days of infection and there is less likely to prevent the virus spread. As obsereved, the spread of virus at nursing homes is also strongly correlated with school communitites. However, those elder people who live alone and not in a nursing home are much less affected as expected.
+
+
+
+
 
 <h6>Modeling</h6>
 
