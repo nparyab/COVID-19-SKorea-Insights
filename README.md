@@ -36,6 +36,11 @@ One of the intersting insigts is that how the virus has affected people in diffe
 
 <img src="plots/birth.png" style="vertical-align:bottom">
 
+In terms of gender, women (1798) have overtaken men (1420)
+
+<img src="plots/gender.png" style="float:center">
+
+
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
 <br />
