@@ -64,7 +64,7 @@ For question 1, the relevant data has been analyzed and the top ten reasons are 
 
 The second question is important since we can find out which one of the big communities were more effective to spread the virus, especially becasue we can explore the correlation between different comminities as well. For instance, a kindergarden and elemntary schools can spread virus to each other (be correlated in the case numbers) since a family have yound children in both kindergarden and elemntary schools and they can tranfer virus to each other and unfortunately there is little or no sign at the early days of infection and there is less likely to prevent the virus spread. As obsereved, the spread of virus at nursing homes is also strongly correlated with school communitites. However, those elder people who live alone and not in a nursing home are much less affected as expected.
 
-<img src="plots/communities.png" style="align:centre">
+<img src="plots/community.png" style="align:centre">
 
 
 
