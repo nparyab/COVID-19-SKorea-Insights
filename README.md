@@ -81,7 +81,11 @@ We also extracted the correlation between the searched keywords as follows:
 The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them. As observed and expected, there is high similary between COVID-19 and pneumonia (0.49 coefficient) that might cause mistake to distinguish between them if we have either of them.  
 
 
-<h6>Modeling</h6>
+<h2>Modeling</h2>
+
+Here, we want to make prediction on the number of deceased cases, using the collected data on date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries. For this, we fit a linear regression model on the training data and will predict the number of deceased cases in test data. You may find the 
+
+
 
 </body>
 </html>
