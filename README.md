@@ -83,8 +83,7 @@ The above picture indicates the closeness between the signs of these infections 
 
 <h2>Modeling</h2>
 
-Here, we want to make prediction on the number of deceased cases, using the collected data on date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries. For this, we fit a linear regression model on the training data and will predict the number of deceased cases in test data. You may find the 
-
+Here, we want to make prediction on the number of deceased cases, using the collected data on date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries. For this, we fit a linear regression model on the training data and will predict the number of deceased cases in test data. By splitting 86 datapoints into 70 percent training data and 30 percent test data, and random state equal 42, the model could predict the test data with Rsquared=0.99 and mean squared error=2.59. Higher volume of dataset will be definitely helpful to better fit the model. 
 
 
 </body>
