@@ -78,6 +78,8 @@ We also extracted the correlation between the searched keywords as follows:
 
 <img src="plots/search.png" class="center">
 
+The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them.
+
 
 <h6>Modeling</h6>
 
