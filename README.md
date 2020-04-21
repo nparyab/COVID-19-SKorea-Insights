@@ -34,15 +34,15 @@ Sometimes, the expected datatypes of the read dataset are not teh same as what w
 I explored some data field as necessary, and used my findings to solve the questions in the next section.
 One of the intersting insigts is that how the virus has affected people in different ages. As you can see in the following picture that indicates top 20 age groups who affected more with the virus, people born in 1995 and 1996 have the highest number of incidents, which indicates the virus has affected young people in a a big deal.
 
-<img src="plots/birth.png" style="vertical-align:bottom">
+<img src="plots/birth.png" style="vertical-align:bottom" class="center">
 
 In terms of gender, women (1798) have overtaken men (1420).
 
-<img src="plots/gender.png" style="float:centre">
+<img src="plots/gender.png" style="float:centre" class="center">
 
 There are also datasets on how the virus is distributed between different provinces in South Koeara. In the folloiwng plot, top ten provinces are shown with their order of engagemnet. The popolation of these provinces is presumabely an important factor in the distribution, however, there are some exception such as Chungcheongbuk-do province which has the highest number of incidents while it has just 2.67 percent of the population of South Korea, and Gyeonggi-do with the highest percentage of population (13.1 percent) has the half number of cases in compare with Gyeonggi-do.   
 
-<img src="plots/province.png" style="float:centre">
+<img src="plots/province.png" style="float:centre" class="center">
 
 <h2>Insights and Questions</h2>
 Some thoughts on insights and specific questions regarding the South Korea's COVID-19 dataset are the following:  
@@ -60,11 +60,11 @@ Some thoughts on insights and specific questions regarding the South Korea's COV
 
 For question 1, the relevant data has been analyzed and the top ten reasons are plotted as follows. As obserevd, the most effective way of virus transformation is by close contact with the patient, and that is why one of the most impotant recommendation to everyone is to hold social distance and also stay in home quarantine when are affected by the virus. The second important factor is traveling, and that is why all governments planned to check incomming travelers against COVID-19 signs and ask all those travelers to stay in quarantine for at least 14 days regardless.
 
-<img src="plots/reasons.png" style="align:centre">
+<img src="plots/reasons.png" style="align:centre" class="center">
 
 The second question is important since we can find out which one of the big communities were more effective to spread the virus, especially becasue we can explore the correlation between different comminities as well. For instance, a kindergarden and elemntary schools can spread virus to each other (be correlated in the case numbers) since a family have yound children in both kindergarden and elemntary schools and they can tranfer virus to each other and unfortunately there is little or no sign at the early days of infection and there is less likely to prevent the virus spread. As obsereved, the spread of virus at nursing homes is also strongly correlated with school communitites. However, those elder people who live alone and not in a nursing home are much less affected as expected.
 
-<img src="plots/community.png" style="align:centre">
+<img src="plots/community.png" style="align:centre" class="center">
 
 
 
