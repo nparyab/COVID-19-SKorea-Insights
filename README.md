@@ -72,16 +72,16 @@ Question 3 clarifies how the breakdown is eliminated and is a very important pro
 
 Furthermore, as we all know, the signs of COVID-19 is so close to other common seasonal disease such as cold, flu and pneumonia. It si interesting to explore how frequently people were searching around the keywords of those diseases. We can also observe in which time poeple were more clear to distinguish between COVID-19 and other simliar diseases and hence to be more self-aware of the specific signs of COVID-19. Also, we can observe that the searches on COVID-19 keywords are decreased as the breakdown is reduced, and they are consistent. This is an interesting observation since it indciates less cases are happening and people do not need to learn about the COVID-19 signs in case they are affected. It also confrims the global less number of confirmed infection cases. This trend data is collected by the keywords searched in NAVER which is one of the largest portals in South Korea.
 
-<img src="plots/search_time.png" class="center">
+<img src="plots/search_time.png" align="middle">
 
 We also extracted the correlation between the searched keywords as follows:
 
-<img src="plots/search.png" class="center">
+<img src="plots/search.png" align="middle">
 
 The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them. As observed and expected, there is high similary between COVID-19 and pneumonia (0.49 coefficient) that might cause mistake to distinguish between them if we have either of them.  
 
 
-<h2>Modeling</h2>
+<h2>Predictive modeling</h2>
 
 Here, we want to make prediction on the number of deceased cases, using the collected data on date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries. For this, we fit a linear regression model on the training data and will predict the number of deceased cases in test data. By splitting 86 datapoints into 70 percent training data and 30 percent test data, and random state equal 42, the model could predict the test data with Rsquared=0.99 and mean squared error=2.59. Higher volume of dataset will be definitely helpful to better fit the model. 
 
