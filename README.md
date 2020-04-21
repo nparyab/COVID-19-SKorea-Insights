@@ -24,6 +24,16 @@ Data should be checked for the following items:
  - Exploratory plots like bar charts and histograms to better understand the data
  <br />
 
+ <h3>Imputing missing data</h3>
+I first check for the missing value in the basic table called PatientInfo which is the general epidemiological data of COVID-19 patients in South Korea. There was no all missing columns, but there exist columns with more than 75 percent but not fully null. We are going to impute numerical value simply with the mean value. However, those columns are not important for the later analysis here and we do this as a good practice. For the categorical missing values, I first cerated dummy variables for each of the categories, then replaced the missing values by the categories with the highest frequency among the others. The codes are all included in the jupyter notebook under Imputing missing data section.  
+
+<h3> Data type check </h3>
+Sometimes, the expected datatypes of the read dataset are not teh same as what we expected. For example, date and time data columns are commonly loaded as object type. The object type will prevent us from working or visualizing this column for time-series analysis. So, we need to change that object datatype into date/time datatype before any further analysis. The codes are all included in the jupyter notebook under Data type check section.   
+
+<h3> Exploratory plots </h3>
+I explored some data field as necessary, and used my findings to solve the questions in the next section.
+
+
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
 <br />
