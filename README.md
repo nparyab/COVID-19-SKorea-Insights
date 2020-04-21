@@ -66,8 +66,9 @@ The second question is important since we can find out which one of the big comm
 
 <img src="plots/community.png" class="center">
 
-Question 3 clarifies how the breakdown is eliminated and is a very important property to consider for each country to find out if their non-essential businesses should stay shut-down or it is the time to return to a normal situation. 
+Question 3 clarifies how the breakdown is eliminated and is a very important property to consider for each country to find out if their non-essential businesses should stay shut-down or it is the time to return to a normal situation. In this plot, we can observe the infections and recoveries over the course of a month. We can see a flat line in mid April 2020 which is a good sign that the cases are not changing over time anymore.
 
+<img src="plots/status_time.png" class="center">
 
 
 <h6>Modeling</h6>
