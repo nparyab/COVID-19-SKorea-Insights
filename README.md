@@ -45,16 +45,19 @@ There are also datasets on how the virus is distributed between different provin
 <img src="plots/province.png" style="float:centre">
 
 <h2>Insights and Questions</h2>
-(1) What are the top 10 sources of infection? 
+(1) What are the sources of infection? 
 <br />
 (2) How different levels of community interactions are related in terms of virus spread? 
 <br />
-(3) What were the top 10 provinces where COVID-19 spread the most?
+(3) How different confirmed and recovered cases change over the last month?
 <br />
-(4) How different confirmed and recovered cases change over the last month?
+(4) How daily web searches on COVID-19, cold, or flu are related?
 <br />
-(5) How daily web searches on COVID-19, cold, or flu are related?
-<br />
+
+For question 1, the relevant data has been analyzed and the top ten reasons are plotted as follows. As obserevd, the most effective way of virus transformation is by close contact with the patient, and that is why one of the most impotant recommendation to everyone is to hold social distance and also stay in home quarantine when are affected by the virus. The second important factor is traveling, and that is why all governments planned to check incomming travelers against COVID-19 signs and ask all those travelers to stay in quarantine for at least 14 days regardless.
+
+<img src="plots/reasons.png" style="align:centre">
+
 <h6>Modeling</h6>
 
 </body>
