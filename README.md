@@ -38,11 +38,11 @@ One of the intersting insigts is that how the virus has affected people in diffe
 
 In terms of gender, women (1798) have overtaken men (1420).
 
-<img src="plots/gender.png" style="float:center">
+<img src="plots/gender.png" style="float:centre">
 
 There are also datasets on how the virus is distributed between different provinces in South Koeara. In the folloiwng plot, top ten provinces are shown with their order of engagemnet. The popolation of these provinces is presumabely an important factor in the distribution, however, there are some exception such as Chungcheongbuk-do province which has the highest number of incidents while it has just 2.67 percent of the population of South Korea, and Gyeonggi-do with the highest percentage of population (13.1 percent) has the half number of cases in compare with Gyeonggi-do.   
 
-<img src="plots/province.png" style="float:center">
+<img src="plots/province.png" style="float:centre">
 
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
