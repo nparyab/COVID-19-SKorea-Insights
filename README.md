@@ -50,9 +50,9 @@ Some thoughts on insights and specific questions regarding the South Korea's COV
 <p>
 (1) What are the sources of infection? 
 <br />
-(2) How different levels of community interactions are related in terms of virus spread? 
+(2) How different levels of community interactions are related to each other? 
 <br />
-(3) How different confirmed and recovered cases change over the last month?
+(3) How infected and recovered cases change over the last month?
 <br />
 (4) How daily web searches on COVID-19, cold, or flu are related?
 <br />
@@ -65,6 +65,8 @@ For question 1, the relevant data has been analyzed and the top ten reasons are 
 The second question is important since we can find out which one of the big communities were more effective to spread the virus, especially becasue we can explore the correlation between different comminities as well. For instance, a kindergarden and elemntary schools can spread virus to each other (be correlated in the case numbers) since a family have yound children in both kindergarden and elemntary schools and they can tranfer virus to each other and unfortunately there is little or no sign at the early days of infection and there is less likely to prevent the virus spread. As obsereved, the spread of virus at nursing homes is also strongly correlated with school communitites. However, those elder people who live alone and not in a nursing home are much less affected as expected.
 
 <img src="plots/community.png" class="center">
+
+Question 3 clarifies how the breakdown is eliminated and is a very important property to consider for each country to find out if their non-essential businesses should stay shut-down or it is the time to return to a normal situation. 
 
 
 
