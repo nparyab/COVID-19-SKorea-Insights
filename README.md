@@ -78,7 +78,7 @@ We also extracted the correlation between the searched keywords as follows:
 
 <img src="plots/search.png" class="center">
 
-The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them.
+The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them. As observed and expected, there is high similary between COVID-19 and pneumonia taht might cause mistake to distinguish between them if we have either of them.  
 
 
 <h6>Modeling</h6>
