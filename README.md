@@ -10,8 +10,19 @@ Thanks sincerely to all the members of KCDC and local governments.
 Source of data: KCDC (Korea Centers for Disease Control & Prevention)
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
-<h2>Data cleaning</h2>
-<h2>Data Understanding</h4>
+<h2>Data preparation</h2>
+Data should be checked for the following items:
+<br />
+ - Each column is a variable, and each row is an individual
+ <br />
+ - Number of columns and rows in each of datasets
+ <br />
+ - Missing data, and whether those missing data should be imputed or removed
+ <br />
+ - Data types check (if they are loaded as the datatype as we expected)
+ <br />
+ - Exploratory plots like bar charts and histograms to better understand the data
+ <br />
 
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
