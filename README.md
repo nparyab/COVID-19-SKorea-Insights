@@ -14,7 +14,8 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset
 <h4>Data Understanding</h4>
 
 <h2>Insights and Questions</h2>
-(1) What are the top 10 sources of infection? \\ 
+(1) What are the top 10 sources of infection? 
+<br />
 (2) How different levels of community interactions are related in terms of virus spread? \\
 (3) What were the top 10 provinces where COVID-19 spread the most?\\
 (4) How different confirmed and recovered cases change over the last month? \\
