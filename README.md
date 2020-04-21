@@ -87,7 +87,9 @@ Here, we want to make prediction on the number of deceased cases, using the coll
 
 In the following plot we visually observe how much each pair of independent variables of dataset (date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries) is correlated with the depenedent vraiable (number of deceased cases).   
 
-
+<center>
+<img src="plots/corr.png" align="middle">
+</center>
 
 </body>
 </html>
