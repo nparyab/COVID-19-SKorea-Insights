@@ -70,6 +70,14 @@ Question 3 clarifies how the breakdown is eliminated and is a very important pro
 
 <img src="plots/status_time.png" class="center">
 
+Furthermore, as we all know, the signs of COVID-19 is so close to other common seasonal disease such as cold, flu and pneumonia. It si interesting to explore how frequently people were searching around the keywords of those diseases. We can also observe in which time poeple were more clear to distinguish between COVID-19 and other simliar diseases and hence to be more self-aware of the specific signs of COVID-19. Also, we can observe that the searches on COVID-19 keywords are decreased as the breakdown is reduced, and they are consistent. This is an interesting observation since it indciates less cases are happening and people do not need to learn about the COVID-19 signs in case they are affected. It also confrims the global less number of confirmed infection cases. This trend data is collected by the keywords searched in NAVER which is one of the largest portals in South Korea.
+
+<img src="plots/search_time.png" class="center">
+
+We also extracted the correlation between the searched keywords as follows:
+
+<img src="plots/search.png" class="center">
+
 
 <h6>Modeling</h6>
 
