@@ -11,7 +11,7 @@ Source of data: KCDC (Korea Centers for Disease Control & Prevention)
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 <h2>Data cleaning</h2>
-<h4>Data Understanding</h4>
+<h2>Data Understanding</h4>
 
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
