@@ -34,7 +34,7 @@ Sometimes, the expected datatypes of the read dataset are not teh same as what w
 I explored some data field as necessary, and used my findings to solve the questions in the next section.
 One of the intersting insigts is that how the virus has affected people in different ages. As you can see int he following picture, people born in 1995 and 1996 have the highest number of incidents.
 
-<img src="plots/birth.png" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+<img src="plots/birth.png" style="vertical-align:bottom">
 
 <h2>Insights and Questions</h2>
 (1) What are the top 10 sources of infection? 
