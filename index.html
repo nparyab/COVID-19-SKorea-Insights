@@ -3,7 +3,7 @@
 <body>
  
 <h1>COVID-19 KCDC dataset and some insights</h1>
-
+<br />
 <img src="plots/covid_sk.jpg" width=%100 height=%100 class="center">
  <br />
 image source: https://www.bbc.com/news/world-asia-51609840
@@ -39,16 +39,19 @@ Sometimes, the expected datatypes of the read dataset are not teh same as what w
 <h3> Exploratory plots </h3>
 I explored some data field as necessary, and used my findings to solve the questions in the next section.
 One of the intersting insigts is that how the virus has affected people in different ages. As you can see in the following picture that indicates top 20 age groups who affected more with the virus, people born in 1995 and 1996 have the highest number of incidents, which indicates the virus has affected young people in a a big deal.
-
+<br />
 <img src="plots/birth.png" class="center">
+ <br />
 
 In terms of gender, women (1798) have overtaken men (1420).
-
+<br />
 <img src="plots/gender.png" class="center">
+ <br />
 
 There are also datasets on how the virus is distributed between different provinces in South Koeara. In the folloiwng plot, top ten provinces are shown with their order of engagemnet. The popolation of these provinces is presumabely an important factor in the distribution, however, there are some exception such as Chungcheongbuk-do province which has the highest number of incidents while it has just 2.67 percent of the population of South Korea, and Gyeonggi-do with the highest percentage of population (13.1 percent) has the half number of cases in compare with Gyeonggi-do.   
-
+<br />
 <img src="plots/province.png" class="center">
+ <br />
 
 <h2>Insights and Questions</h2>
 Some thoughts on insights and specific questions regarding the South Korea's COVID-19 dataset are the following:  
@@ -65,25 +68,28 @@ Some thoughts on insights and specific questions regarding the South Korea's COV
 </p>
 
 For question 1, the relevant data has been analyzed and the top ten reasons are plotted as follows. As obserevd, the most effective way of virus transformation is by close contact with the patient, and that is why one of the most impotant recommendation to everyone is to hold social distance and also stay in home quarantine when are affected by the virus. The second important factor is traveling, and that is why all governments planned to check incomming travelers against COVID-19 signs and ask all those travelers to stay in quarantine for at least 14 days regardless.
-
+<br />
 <img src="plots/reasons.png" class="center">
+ <br />
 
 The second question is important since we can find out which one of the big communities were more effective to spread the virus, especially becasue we can explore the correlation between different comminities as well. For instance, a kindergarden and elemntary schools can spread virus to each other (be correlated in the case numbers) since a family have yound children in both kindergarden and elemntary schools and they can tranfer virus to each other and unfortunately there is little or no sign at the early days of infection and there is less likely to prevent the virus spread. As obsereved, the spread of virus at nursing homes is also strongly correlated with school communitites. However, those elder people who live alone and not in a nursing home are much less affected as expected.
-
+<br />
 <img src="plots/community.png" class="center">
+ <br />
 
 Question 3 clarifies how the breakdown is eliminated and is a very important property to consider for each country to find out if their non-essential businesses should stay shut-down or it is the time to return to a normal situation. In this plot, we can observe the infections and recoveries over the course of a month. We can see a flat line in mid April 2020 which is a good sign that the cases are not changing over time anymore.
-
+<br />
 <img src="plots/status_time.png" class="center">
+ <br />
 
 Furthermore, as we all know, the signs of COVID-19 is so close to other common seasonal disease such as cold, flu and pneumonia. It si interesting to explore how frequently people were searching around the keywords of those diseases. We can also observe in which time poeple were more clear to distinguish between COVID-19 and other simliar diseases and hence to be more self-aware of the specific signs of COVID-19. Also, we can observe that the searches on COVID-19 keywords are decreased as the breakdown is reduced, and their timeline is the same. This is an interesting observation since it indicates less cases are happening and people do not need to learn about the COVID-19 signs by searching on the internet (i.e., less searches confrims the global less number of confirmed infection cases). This trend data is collected by the keywords searched in NAVER which is one of the largest portals in South Korea.
-<center>
+<br />
 <img src="plots/search_time.png" align="middle">
-</center>
+ <br />
 We also extracted the correlation between the searched keywords as follows:
-<center>
+ <br />
 <img src="plots/search.png" align="middle">
-</center>
+<br />
 The above picture indicates the closeness between the signs of these infections and how that similarity might make it harder for people to distinguish between them. As observed and expected, there is high similary between COVID-19 and pneumonia (0.49 coefficient) that might cause mistake to distinguish between them if we have either of them.  
 
 
@@ -93,9 +99,9 @@ Here, we want to make prediction on the number of deceased cases, using the coll
 
 In the following plot we visually observe how much each pair of independent variables of dataset (date, number of COVID-19 tests, confirmed cases, negative cases, and recoveries) is correlated with the depenedent vraiable (number of deceased cases).   
 
-<center>
+<br />
 <img src="plots/corr.png" align="middle">
-</center>
+<br />
 
 </body>
 </html>
