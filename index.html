@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
 <body>
+ 
+<h1>An overview on the COVID-19 KCDC dataset and some insights</h1>
 
-<h1>Overview</h1>
+<img src="plots/covid_sk.jpg" width=%100 height=%100 class="center">
+
+<h2>Overview</h2>
 COVID-19 has infected more than 10,000 people in South Korea. KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently. This structured dataset is collected in line with the report materials of KCDC and local governments. Intuitively, we are collecting insigts into the dataset by answering some critical questions.
 
 <h3>Acknowledgements</h3>
-Thanks sincerely to all the members of KCDC and local governments.
+Sincerely tahnks to all the members of KCDC and local governments.
 Source of data: KCDC (Korea Centers for Disease Control & Prevention)
 https://www.kaggle.com/kimjihoo/coronavirusdataset
 
@@ -70,7 +74,7 @@ Question 3 clarifies how the breakdown is eliminated and is a very important pro
 
 <img src="plots/status_time.png" class="center">
 
-Furthermore, as we all know, the signs of COVID-19 is so close to other common seasonal disease such as cold, flu and pneumonia. It si interesting to explore how frequently people were searching around the keywords of those diseases. We can also observe in which time poeple were more clear to distinguish between COVID-19 and other simliar diseases and hence to be more self-aware of the specific signs of COVID-19. Also, we can observe that the searches on COVID-19 keywords are decreased as the breakdown is reduced, and they are consistent. This is an interesting observation since it indciates less cases are happening and people do not need to learn about the COVID-19 signs in case they are affected. It also confrims the global less number of confirmed infection cases. This trend data is collected by the keywords searched in NAVER which is one of the largest portals in South Korea.
+Furthermore, as we all know, the signs of COVID-19 is so close to other common seasonal disease such as cold, flu and pneumonia. It si interesting to explore how frequently people were searching around the keywords of those diseases. We can also observe in which time poeple were more clear to distinguish between COVID-19 and other simliar diseases and hence to be more self-aware of the specific signs of COVID-19. Also, we can observe that the searches on COVID-19 keywords are decreased as the breakdown is reduced, and their timeline is the same. This is an interesting observation since it indicates less cases are happening and people do not need to learn about the COVID-19 signs by searching on the internet (i.e., less searches confrims the global less number of confirmed infection cases). This trend data is collected by the keywords searched in NAVER which is one of the largest portals in South Korea.
 <center>
 <img src="plots/search_time.png" align="middle">
 </center>
@@ -93,3 +97,4 @@ In the following plot we visually observe how much each pair of independent vari
 
 </body>
 </html>
+
