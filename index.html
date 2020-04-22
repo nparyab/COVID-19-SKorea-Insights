@@ -5,6 +5,7 @@
 <h1>COVID-19 KCDC dataset and some insights</h1>
 
 <img src="plots/covid_sk.jpg" width=%100 height=%100 class="center">
+image source: https://www.bbc.com/news/world-asia-51609840
 
 <h2>Overview</h2>
 COVID-19 has infected more than 10,000 people in South Korea. KCDC (Korea Centers for Disease Control & Prevention) announces the information of COVID-19 quickly and transparently. This structured dataset is collected in line with the report materials of KCDC and local governments. Intuitively, we are collecting insigts into the dataset by answering some critical questions.
