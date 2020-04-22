@@ -2,7 +2,7 @@
 <html>
 <body>
  
-<h1>An overview on the COVID-19 KCDC dataset and some insights</h1>
+<h1>COVID-19 KCDC dataset and some insights</h1>
 
 <img src="plots/covid_sk.jpg" width=%100 height=%100 class="center">
 
